@@ -1,8 +1,4 @@
 # ProyectoDSI
 
-Nombre: Sánchez Vargas Omar
-Grupo: 32
-Carrera: Ingenieria de Software
-Expediente: 259919
-Facultad de Informática UAQ
-Profesora: Medel San Elías Yazmín Lisset
+<p>Nombre: Sánchez Vargas Omar</p>
+<p>Grupo: 32</p>
